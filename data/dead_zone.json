@@ -1,72 +1,10 @@
 {
-    "id": 30437399,
-    "name": "Dead Zone",
-    "author": "Reshiria",
-    "creators": ["GrenAde"],
-    "verifier": "Reshiria",
-    "verification": "https://www.youtube.com/watch?v=ZQWJb50d9SI",
-    "showcase": "https://youtu.be/Vc8rkOKIv6k?si=-VJL_vy5tBzu-zZE",
+    "id": 232114,
+    "name": "RETRO BLUX",
+    "author": "sotona_999",
+    "creators": ["sontona_999"],
+    "verifier": "sontona_999",
+    "verification": "https://www.youtube.com/watch?v=GXQFmcjcfYo",
+    "showcase": "https://www.youtube.com/watch?v=EwmXQ0fkKdQ",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "twet",
-            "link": "https://youtu.be/tdUz55a75cM",
-            "percent": 100
-        },
-        {
-            "user": "ButterFish",
-            "link": "https://youtu.be/VnFNhlvLtJQ",
-            "percent": 100
-        },
-        {
-            "user": "Cyan",
-            "link": "https://youtu.be/BR8Eq3QoHxI?si=UQtnCteMzLIA4l_l",
-            "percent": 100
-        },
-        {
-            "user": "Trehoeje",
-            "link": "https://youtu.be/BrUiYjd-AZc?si=0jMnxe8eFztqXlfG",
-            "percent": 100
-        },
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/TS18jCNA4ac?si=3IldAHTiBsPi2eEH",
-            "percent": 100
-        },
-        {
-            "user": "breaddemon",
-            "link": "https://youtu.be/KlFZZFA_je0",
-            "percent": 100
-        },
-        {
-            "user": "Sadisyourlife",
-            "link": "https://youtu.be/U4tNinDff2I?si=S2tcU2P28HbbW-mt",
-            "percent": 100
-        }, 
-        {
-            "user": "Flakjacket", 
-            "link": "https://youtu.be/Nphd3ORpj6g?si=Ep7Sz3elUa9x249w", 
-            "percent": 100
-        }, 
-        {
-            "user": "plimbus", 
-            "link": "https://youtu.be/b5GyOG01vg8?si=CI3QGavV9SYjuLnL", 
-            "percent": 100
-        },
-         {
-            "user": "Meatballmoose", 
-            "link": "https://www.youtube.com/watch?v=f5maCOSa1wE", 
-            "percent": 100
-        },
-                 {
-            "user": "BeckettGD", 
-            "link": "https://youtu.be/3iCodw0qyOM", 
-            "percent": 100
-        },
-        {
-            "user": "Kyle1saurus",
-            "link": "https://youtu.be/fVnfn1o-rVM?si=dhs-nJZpprWSN42d",
-            "percent": 100
-        }
-    ]
-}
+    "records": []
