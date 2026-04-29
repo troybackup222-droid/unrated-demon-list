@@ -1,11 +1,18 @@
 {
-    "id": 119544028,
-    "name": "ETV",
-    "author": "CairoX",
-    "creators": ["Jawis", "Rin04", "HaydenDom", "V453C70M14", "UFokinWotM8", "Hyperbola", "NcaT", "KugelBlitZ", "Triforce", "Maxmur", "MeatiusGaming", "DrCuber", "ADrone", "Korewa", "GhostVandalf", "CairoX", "RealVet", "Genoxide", "Crowlley", "Meox", "GamerKnight750", "ThunderDarkness", "DiamondSkull", "Kevellium"],
-    "verifier": "Zoink",
+    "id": 2321174,
+    "name": "E T V",
+    "author": "VictorSanjic17",
+    "creators": ["eni", "TOON_7550", "VictorSanjic17"],
+    "verifier": "Supairon",
     "verification": "https://youtu.be/CELNmHwln_c?si=hheVenKxzI6y0WKQ",
     "showcase": "https://www.youtube.com/watch?v=-RRXIsgcyfY",
     "percentToQualify": 58,
-    "records": []
+     "records": [
+        {
+            "user": "eni",
+            "link": "https://www.youtube.com/watch?v=gaqLfp5FsQw",
+            "percent": 71
+        }
+    ],
+    "tags": ["Collab", "Eni Approved V"]
 }
