@@ -5,17 +5,6 @@
     "creators": ["Xoliver"],
     "showcase": "https://www.youtube.com/watch?v=Rl8U9lmFiKw",
     "percentToQualify": 20,
-    "records": [
-        {
-            "user": "noname228gg",
-            "link": "https://youtu.be/983OV8sxW_E",
-            "percent": 100
-        },
-        {
-            "user": "nensa",
-            "link": "https://www.youtube.com/watch?v=HyWyT2Zw_Uc",
-            "percent": 79
-        }
-    ],
+    "records": [],
     "tags": ["Terry And Friends"]
 }
