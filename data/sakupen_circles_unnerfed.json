@@ -1,44 +1,13 @@
 {
-    "id": 10887708,
+    "id": 511257,
     "name": "Sakupen circles (Unnerfed)",
-    "author": "Nick24",
-    "creators": [],
-    "verifier": "ad3us",
-    "verification": "https://youtu.be/AdrmZsy52EY?si=Dl1vpDmY-BW_V-yz",
-    "percentToQualify": 69,
-    "records": [
-        {
-            "user": "ROZE GD",
-            "link": "https://www.youtube.com/watch?v=sxqgZh4sLb8",
-            "percent": 100
-        },
-        {
-            "user": "Emp",
-            "link": "https://youtu.be/xOQ0O-Oh6Ys?si=sWcba1oc0oJ8yoQs",
-            "percent": 76
-        },
-        {
-            "user": "galbeni7",
-            "link": "https://www.youtube.com/watch?v=dAvDNq-3-OU",
-            "percent": 69
-        },
-        {
-            "user": "skylar",
-            "link": "https://www.youtube.com/watch?v=tcc5tFygOKQ",
-            "percent": 69
-        },
-        {
-            "user": "nensa",
-            "link": "https://www.youtube.com/watch?v=VnN2UygB00I",
-            "percent": 68
-        },
-        {
-            "user": "cc478",
-            "link": "https://www.youtube.com/watch?v=LDcsNoIiyXQ",
-            "percent": 67
-        }
-    ],   
-    "tags": ["Nine Circles", "Old Impossible Level", "Short", "Spam", "CBF"]
+    "author": "GhaztGD",
+    "creators": ["GhaztGD"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=HUgfUlYZgIU",
+    "percentToQualify": 23,
+    "records": [],
+    "tags": ["GhaztGD Pack", "Spam"]
 }
 
 
