@@ -1,18 +1,12 @@
 {
   
-    "id": 77331805,
-    "name": "Aquamarine",
-    "author": "sincos",
-    "creators": ["sincos", "Cursed", "Taika", "Scorpion"],
-    "verifier": "seels55",
-    "verification": "https://youtu.be/Q__EnRojGt4?si=ZV8cU1ulPCtn-gXo",
-    "percentToQualify": 61,
-    "records": [
-        {
-            "user": "ROZE GD",
-            "link": "https://youtu.be/41JrFdenKEk?si=rLMSForEnP6ogbA-",
-            "percent": 100
-        }
-    ],   
-    "tags": ["Remake", "Short", "Spam", "Old Impossible Level", "Nine Circles Level", "CBF"]
+    "id": 669120,
+    "name": "Eternal Bloodswing",
+    "author": "Zexa Ghimire",
+    "creators": ["Zexa Ghimire"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=JXVrurJouJs&t=1s",
+    "percentToQualify": 37,
+    "records": [],
+    "tags": ["Nine Circles Level"]
 }
